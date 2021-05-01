@@ -6,6 +6,7 @@ Imports:
     leaflet,
     lubridate,
     magrittr,
+    plyr,
     stringr,
     tibble,
     tidyr

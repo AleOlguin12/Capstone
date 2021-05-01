@@ -74,6 +74,7 @@ eq_location_clean <- function(df){
 #' @import ggplot2
 #' @import grid
 #' @importFrom magrittr "%>%"
+#' @importFrom plyr defaults
 #'
 #' @return Visual Structure of the Geom Timeline
 #'
