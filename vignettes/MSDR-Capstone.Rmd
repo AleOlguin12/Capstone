@@ -1,8 +1,8 @@
 ---
-title: "MSDR Capstone"
+title: "MSDR-Capstone"
 output: rmarkdown::html_vignette
 vignette: >
-  %\VignetteIndexEntry{MSDR Capstone}
+  %\VignetteIndexEntry{MSDR-Capstone}
   %\VignetteEngine{knitr::rmarkdown}
   %\VignetteEncoding{UTF-8}
 ---
