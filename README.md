@@ -1,6 +1,8 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
+[![Build Status](https://travis-ci.com/AleOlguin12/Capstone.svg?branch=main)](https://travis-ci.com/AleOlguin12/Capstone)
+
 # Introduction
 
 This package is the result of the Capstone Project of the JHU’s Coursera
